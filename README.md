@@ -1,4 +1,7 @@
 # portfolio2
+
+
+
 My Portfolio
 
 
@@ -12,7 +15,7 @@ Live URL: https://gifted-kirch-e545db.netlify.app/
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabeer-prog" alt="kabeer-prog" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kabeerakanni" target="blank"><img src="https://img.shields.io/twitter/follow/kabeerakanni?logo=twitter&style=for-the-badge" alt="kabeerakanni" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akannikabeer" target="blank"><img src="https://img.shields.io/twitter/follow/akannikabeer?logo=twitter&style=for-the-badge" alt="kabeerakanni" /></a> </p>
 
 - 🌱 I’m currently learning **REACT**
 
@@ -22,7 +25,7 @@ Live URL: https://gifted-kirch-e545db.netlify.app/
 <p align="left">
 <a href="https://codepen.io/kabeerabbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kabeerabbey" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/kabeerprog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/kabeerprog" height="30" width="40" /></a>
-<a href="https://twitter.com/kabeerakanni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabeerakanni" height="30" width="40" /></a>
+<a href="https://twitter.com/akannikabeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabeerakanni" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/kabeer-abiodun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/kabeer-abiodun" height="30" width="40" /></a>
 </p>
 
