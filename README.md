@@ -5,7 +5,7 @@
 My Portfolio
 
 
-Live URL: https://gifted-kirch-e545db.netlify.app/
+Live URL: https://kabeerakanni.netlify.app/
 
 
 <h1 align="center">Hi 👋, I'm kabeer</h1>
