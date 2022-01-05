@@ -15,6 +15,8 @@ Live URL: https://kabeerakanni.netlify.app/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabeer-prog&label=Profile%20views&color=0e75b6&style=flat" alt="kabeer-prog" /> </p>
 
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabeer-prog" alt="kabeer-prog" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/akannikabeer" target="blank"><img src="https://img.shields.io/twitter/follow/akannikabeer?logo=twitter&style=for-the-badge" alt="kabeerakanni" /></a> </p>
