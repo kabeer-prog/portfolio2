@@ -5,6 +5,8 @@
 My Portfolio
 
 
+
+
 Live URL: https://kabeerakanni.netlify.app/
 
 
@@ -12,6 +14,8 @@ Live URL: https://kabeerakanni.netlify.app/
 <h3 align="center">A passionate frontend developer from Nigeria. A proud lover of community based problem solving within the tech spaces I operate. And a proud software engineer who will do whatever it takes to find the answer. I love answers. I love to explore the world of making stuffs, solving problems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabeer-prog&label=Profile%20views&color=0e75b6&style=flat" alt="kabeer-prog" /> </p>
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabeer-prog" alt="kabeer-prog" /></a> </p>
 
@@ -23,6 +27,9 @@ Live URL: https://kabeerakanni.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
+
 <a href="https://codepen.io/kabeerabbey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kabeerabbey" height="30" width="40" /></a>
 <a href="https://dev.to/https://dev.to/kabeerprog" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/kabeerprog" height="30" width="40" /></a>
 <a href="https://twitter.com/akannikabeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabeerakanni" height="30" width="40" /></a>
@@ -37,6 +44,7 @@ Live URL: https://kabeerakanni.netlify.app/
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabeer-prog&show_icons=true&locale=en" alt="kabeer-prog" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabeer-prog&" alt="kabeer-prog" /></p>
+
 
 
 LIVE URL: 
